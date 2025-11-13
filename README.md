@@ -7,8 +7,6 @@
    <p><em>Your Private AI Journal for Mental Clarity and Well-being.</em></p>
 </div>
 
-![Mindflow Screenshot](https://storage.googleapis.com/aistudio-project-marketplace-app-samples/mindflow_screenshot.png)
-
 ---
 
 ## 🚀 Features
@@ -21,6 +19,12 @@
 - **Sleek UI**: Built with React + TypeScript and Tailwind CSS.
 
 ---
+
+<div align="center">
+   <a href="https://github.com/abhijatsarari/mindflow">
+      <img src="ss.png" alt="Mindflow Logo" width="240" />
+   </a>
+</div>
 
 ## 🛠️ Tech Stack
 
